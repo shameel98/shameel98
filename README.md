@@ -10,14 +10,17 @@
 </p>
 <br>
 💫 About Me:
-I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
+<br>I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
 
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shameeljs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shameelahmed98) 
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> </p>
 
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
