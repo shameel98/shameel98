@@ -1,16 +1,19 @@
 ## Hi Geeks, 👋
 
+
 ##### Welcome to my GitHub,
 
+<a center href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Shameel+Ahmed;Cloud +Engineer;DevOps+Engineer+👨🏻‍💼;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;A+Automation+scripter+🔥">
+<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Shameel+Ahmed;DevOps+Engineer+👨🏻‍💼;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;A+Automation+scripter+🔥">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
-
-# 💫 About Me:
+<br>
+💫 About Me:
 I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
 
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shameeljs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shameelahmed98) 
 
 #### Programming Language Stack
