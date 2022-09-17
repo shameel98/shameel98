@@ -1,5 +1,13 @@
+## Hi Geeks, 👋
+
+##### Welcome to my GitHub,
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=cab9ce&size=30&center=true&vCenter=true&width=550&height=50&lines=Hey+There+👋,+I'm+Shameel+Ahmed;Cloud +Engineer;DevOps+Engineer+👨🏻‍💼;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;A+Automation+scripter+🔥">
+</p>
+
 # 💫 About Me:
-Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
+I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
 
 
 ## 🌐 Socials:
