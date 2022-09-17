@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, HashiCorp Vault, Ansible, Docker, kubernetes, Python, Bash, Jenkins, Concourse CI, Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
+Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, CI / CD, Ansible, Docker, kubernetes, Python, Bash, Jenkins,Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
 
 
 ## 🌐 Socials:
@@ -18,7 +18,9 @@ Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled De
 
 
 #### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
 
 #### Dev Stack
 <p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
