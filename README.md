@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, HashiCorp Vault, Ansible, Buildah, Docker, kubernetes, Python, Bash, Jenkins, Concourse CI, Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
+Hello! I’m Shameel Ahmed . I am passionate about DevOps. <br>I am a skilled DevOps Engineer<br>AWS Cloud (AWS Certified)<br>Microsoft (Azure Certified)<br>Devops Tools:<br>Linux, Terraform, Packer, HashiCorp Vault, Ansible, Docker, kubernetes, Python, Bash, Jenkins, Concourse CI, Git. <br>I am a quick learner and a team worker that gets the job done.<br><br>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.
 
 
 ## 🌐 Socials:
